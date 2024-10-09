@@ -12,4 +12,3 @@ Meu nome é Marcella Eduarda De Oliveira
 
 @marcela1B
 
-![descrição do GIF](link GIF do Tenor)
